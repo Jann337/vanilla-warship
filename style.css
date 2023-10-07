@@ -31,3 +31,7 @@ ul,
 ol {
   list-style-type: none;
 }
+
+#text-backround {
+  background-color: whitesmoke;
+}
